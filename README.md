@@ -2,6 +2,10 @@
 
 A responsive To-Do List built with HTML, CSS, and JavaScript.
 
+## Live Demo
+
+(https://github.com/Zytrix-Tech05/Todo-App.)
+
 ## Features
 
 - Add tasks
@@ -30,4 +34,5 @@ A responsive To-Do List built with HTML, CSS, and JavaScript.
 ## Author
 
 Ohene Richmond Kwasi
+
 GitHub: Zytrix-Tech05
