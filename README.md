@@ -18,7 +18,7 @@ A responsive To-Do List built with HTML, CSS, and JavaScript.
 
 ## Screeenshot
 
-![Todo-App screenshot](Todo app.png)
+![Todo-App screenshot](Todoapp.png)
 
 ## Future Improvements
 
